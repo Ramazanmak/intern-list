@@ -25,13 +25,13 @@ const internData = internList.find((item) => item.id == route.params.userId);
     
                 <ul id="contacts">
                     <li class="contact-item">
-                       Номер: <a tel: href="+7(777)777-77-77"> +7(777)777-77-77</a>
+                       Номер: <a tel: href="+7(777)777-77-77" target="_blank"> +7(777)777-77-77</a>
                     </li>
                     <li class="contact-item">
-                       Почта: <a mailto: href="example@mail.ru"> example@mail.ru</a>
+                       Почта: <a mailto: href="example@mail.ru" target="_blank"> example@mail.ru</a>
                     </li>
                     <li class="contact-item">
-                       Номер: <a href="https://t.me/example"> @Example_tg</a>
+                       Номер: <a href="https://t.me/example" target="_blank"> @Example_tg</a>
                     </li>
                 </ul>
             </div>
@@ -123,6 +123,5 @@ const internData = internList.find((item) => item.id == route.params.userId);
         margin:2px 5px;
         padding:3px;
     }
-    
 
 </style>

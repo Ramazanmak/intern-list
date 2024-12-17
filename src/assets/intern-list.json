@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "name": "Максютов Рамазан Ирекович",
+        "direction": "Frontend",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Vue.js"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed pre sentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 2,
+        "name": "Гринюк Михаил Александрович",
+        "direction": "Backend",
+        "skills": [
+            "Python",
+            "C++",
+            "Django",
+            "Docker"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 3,
+        "name": "Васильева Алла Николаевна",
+        "direction": "Machine Learning",
+        "skills": [
+            "Python",
+            "numpy",
+            "pandas",
+            "statistics"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Qui, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 4,
+        "name": "Шмидт Юлия Евгеньевна",
+        "direction": "Fullstack",
+        "skills": [
+            "Java",
+            "Spring",
+            "JavaScript",
+            "CSS",
+            "HTML"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 5,
+        "name": "Алиев Азим Маратович",
+        "direction": "Frontend",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Vue.js"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 6,
+        "name": "Колесникова Анастасия Михайловна",
+        "direction": "Backend",
+        "skills": [
+            "Python",
+            "C++",
+            "Django",
+            "Docker"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo eniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 7,
+        "name": "Пронько Олег Васильевич",
+        "direction": "Machine Learning",
+        "skills": [
+            "Python",
+            "numpy",
+            "pandas",
+            "statistics"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 8,
+        "name": "Сарафанова Екатерина Алексеевна",
+        "direction": "Fullstack",
+        "skills": [
+            "Java",
+            "Spring",
+            "JavaScript",
+            "CSS",
+            "HTML"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 9,
+        "name": "Александров Иван Александрович",
+        "direction": "Frontend",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Vue.js"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    },
+    {
+        "id": 10,
+        "name": "Корепанова Ольга Назаровна",
+        "direction": "Backend",
+        "skills": [
+            "Python",
+            "C++",
+            "Django",
+            "Docker"
+        ],
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, nemo incidunt molestias eos magni atque, recusandae dicta sunt sed praesentium voluptates facere officia ea, et expedita omnis. Unde tempore, modi eveniet dolore sapiente necessitatibus nesciunt voluptate corporis explicabo veniam. Vitae optio dolor, fugit ducimus sed aspernatur nemo, facilis nulla quidem beatae, expedita mollitia esse aliquid odit. Vel possimus mollitia nobis laborum nesciunt! Magni iusto quidem praesentium deleniti rem eum inventore quod sequi quos enim qui, cupiditate dolore facilis excepturi repellendus! Quis, maxime atque. Impedit corrupti beatae inventore eveniet quas sint voluptates earum quasi, atque possimus eligendi sapiente illo neque asperiores!"        
+    }
+]

@@ -1,15 +1,11 @@
 <script setup>
   import {ref} from 'vue'
-  import MyHeader from "./components/MyHeader.vue"
-  import MyList from "./components/MyList.vue"
-  import ToolPanel from './components/ToolPanel.vue';
+
+  import HomeView from './views/HomeView.vue';
 </script>
 
 <template>
-  <MyHeader></MyHeader>
-  <main>
-
-  </main>
+  <router-view></router-view>
 </template>
 
 <style scoped>

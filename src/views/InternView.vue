@@ -31,7 +31,7 @@ const internData = internList.find((item) => item.id == route.params.userId);
                        Почта: <a mailto: href="example@mail.ru" target="_blank"> example@mail.ru</a>
                     </li>
                     <li class="contact-item">
-                       Телеграм: <a href="https://t.me/example" target="_blank"> @Example_tg</a>
+                       Telegram: <a href="https://t.me/example" target="_blank"> @Example_tg</a>
                     </li>
                 </ul>
             </div>

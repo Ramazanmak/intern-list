@@ -4,7 +4,7 @@
 <template>
     <header>
         <h1> Список <span style="color:orange">стажёров</span></h1>
-        <img src="../../assets/imgs/loodsen-logo-modern.svg">
+        <img src="../assets/imgs/loodsen-logo-modern.svg">
     </header>
 </template>
 

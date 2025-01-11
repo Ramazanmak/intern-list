@@ -42,7 +42,7 @@
 
     }
     article:hover{
-        box-shadow:0 0 20px -3px rgb(59, 43, 102);
+        box-shadow:0 0 20px -3px red;
         transition-duration:250ms;
     }
 

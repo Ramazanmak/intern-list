@@ -1,6 +1,6 @@
 <script setup>
-import MyHeader from '../components/MyHeader.vue';
-import MyFooter from '../components/MyFooter.vue';
+import MyHeader from '../components/Common/CommonHeader.vue';
+import MyFooter from '../components/Common/CommonFooter.vue';
 import internList from '../assets/intern-list.json' with {type:'json'}
 
 import {ref} from 'vue'

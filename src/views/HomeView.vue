@@ -1,7 +1,7 @@
 <script setup>
   import {ref} from 'vue'
 
-  import CommonHeader from "../components/common/CommonHeader.vue";
+  import CommonHeader from "C:\Users\Asus\Desktop\Education\Programming\JavaScript\Vue.js\intern-list\src\components\common\CommonHeader.vue";
   import InternList from "../components/home/InternList.vue";
   import ToolPanel from '../components/home/ToolPanel.vue';
   import CommonFooter from '../components/common/CommonFooter.vue';

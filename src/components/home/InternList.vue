@@ -2,7 +2,7 @@
 import InternCard from './InternCard.vue';
 import {ref} from 'vue'
 // Загрузили данные о стажёрах из локального JSON-файла - временная мера
-import internList from '../assets/intern-list.json' with {type:"json"};
+import internList from '../../assets/intern-list.json' with {type:"json"};
 
 </script>
 

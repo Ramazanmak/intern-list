@@ -4,7 +4,7 @@
   import CommonHeader from "../components/CommonHeader.vue";
   import InternList from "../components/InternList.vue";
   import ToolPanel from '../components/ToolPanel.vue';
-  import CommonFooter from '../components/common/CommonFooter.vue';
+  import CommonFooter from '../components/common-components/CommonFooter.vue';
 </script>
 
 <template>

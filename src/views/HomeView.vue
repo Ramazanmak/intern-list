@@ -1,10 +1,10 @@
 <script setup>
   import {ref} from 'vue'
 
-  import CommonHeader from "../components/CommonHeader.vue";
-  import InternList from "../components/InternList.vue";
-  import ToolPanel from '../components/ToolPanel.vue';
-  import CommonFooter from '../components/CommonFooter.vue';
+  import CommonHeader from "../components/common/CommonHeader.vue";
+  import InternList from "../components/home/InternList.vue";
+  import ToolPanel from '../components/home/ToolPanel.vue';
+  import CommonFooter from '../components/common/CommonFooter.vue';
 </script>
 
 <template>

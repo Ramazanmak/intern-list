@@ -1,19 +1,19 @@
 <script setup>
   import {ref} from 'vue'
 
-  import MyHeader from "../components/Common/CommonHeader.vue"
-  import MyList from "../components/Home/InternList.vue"
+  import CommonHeader from "../components/Common/CommonHeader.vue"
+  import InternList from "../components/Home/InternList.vue"
   import ToolPanel from '../components/Home/ToolPanel.vue';
-  import MyFooter from '../components/Common/CommonFooter.vue';
+  import CommonFooter from '../components/Common/CommonFooter.vue';
 </script>
 
 <template>
-  <MyHeader></MyHeader>
+  <CommonHeader></CommonHeader>
   <main>
-    <MyList></MyList>
+    <InternList></InternList>
     <ToolPanel></ToolPanel>
   </main>
-  <MyFooter></MyFooter>
+  <CommonFooter></CommonFooter>
 </template>
 
 <style scoped>
